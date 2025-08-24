@@ -1,16 +1,10 @@
-# Virtual environments
-venv/
-env/
-.venv/
-.env/
-
-# Logs and outputs
-*.log
-
-# OS generated files
+node_modules/
+dist/
+build/
+out/
+coverage/
 .DS_Store
-Thumbs.db
-
-# IDE/editor configs
-.vscode/
+.vscode
 .history
+.env
+/example
